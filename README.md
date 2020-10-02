@@ -1,5 +1,8 @@
 ## Overview
-Program is trained for 30 epochs and runs at 66% accuracy.
+
+This is a model which predicts fece expression from video.
+Like - Happy, Sad, Neutral, Surprise, Angry. 
+Model is trained for 30 epochs and runs at 66% accuracy.
 
 ### Dependencies:
 * pip install numpy
